@@ -1,3 +1,9 @@
+## Deployment
+
+Your project is live at:
+
+**[https://vercel.com/ayeijguhnfcds-3322s-projects/v0-game-on-technical-overview](https://vercel.com/ayeijguhnfcds-3322s-projects/v0-game-on-technical-overview)**
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
